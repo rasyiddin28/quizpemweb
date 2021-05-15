@@ -1,4 +1,8 @@
 # quizpemweb
+Nama : Rasyiddin Permanaputra
+NIM : 192410101061
+Kelas : B
+
 Selamat Datang
 Untuk tampilan langsung web nya dapat mengunjungi : https://rasyiddin28.github.io/quizpemweb/
 
